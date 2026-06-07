@@ -9,7 +9,7 @@ A Streamlit app to compare a resume to a job description and generate:
 - Python
 - Streamlit
 - LlamaIndex
-- OpenAI API
+- google GenAI API
 
 ## Setup
 1. Open a terminal in `c:\Users\vaigh\OneDrive\Desktop\interview-helper`
@@ -22,7 +22,7 @@ pip install -r requirements.txt
 3. Set your OpenAI key in environment variables or enter it in the sidebar:
 
 ```powershell
-$env:OPENAI_API_KEY = "your_api_key_here"
+$env:GENAI_API_KEY = "your_api_key_here"
 ```
 
 4. Run the app:
