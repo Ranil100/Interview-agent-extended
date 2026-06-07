@@ -1,0 +1,7 @@
+streamlit>=1.24.0
+llama-index>=0.10.0
+llama-index-llms-google-genai
+llama-index-embeddings-google-genai
+google-genai
+pandas
+PyPDF2>=3.0.0
